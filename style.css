@@ -1,16 +1,18 @@
 
-      body {
-    background:#ffffff
-}
-h1 {
-   text-align: center
-}
-p {
-    text-align: center
-}
+ 
+      body{background-color: rgb(185, 201, 189);
 
-em, strong {
-    
-    color: rgb(244, 252, 129);
- }
-
+      }
+     h1 {
+        text-align:left
+     }
+     p {
+         text-align:left
+     }
+     
+     em, strong {
+         
+         color: rgb(241, 243, 218);
+     }
+ 
+ 
